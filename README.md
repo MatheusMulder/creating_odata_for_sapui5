@@ -33,5 +33,33 @@ f.
 g.
 ![](SNAG0020.png)
 
-3 - Re-generate
+3 - Generate
 ![](SNAG0019.png)
+
+4 - after generating your odata service two new classes will be available
+![](SNAG0018.png)
+
+a. ABAP code should always be in DPC class.
+
+5 - Register your service in the gateway. (If your system is not embedded, this part will be different)
+![](SNAG0017.png)
+
+![](SNAG0016.png)
+
+6 - Maitain to check status/infos
+a.
+![](SNAG0015.png)
+
+b.
+![](SNAG0014.png)
+
+c. Congrats! Your service is available.
+![](SNAG0013.png)
+
+d. Try using json format for better viewing
+![](SNAG0012.png)
+
+e. Check your metadata (Pay attention to this, very import to check the details of oData Service)
+![](SNAG0011.png)
+
+
