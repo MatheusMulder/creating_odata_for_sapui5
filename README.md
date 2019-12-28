@@ -68,7 +68,7 @@ c. Congrats! Your service is available.
 d. Try using json format for better viewing
 ![](SNAG0012.png)
 
-e. Check your metadata (Pay attention to this, very import to check the details of oData Service)
+e. Check your metadata (Pay attention to this, very important to check the details of oData Service)
 ![](SNAG0011.png)
 
 f. Copy this link and paste in your browser
@@ -117,6 +117,6 @@ a.
 ![](SNAG0001.png)
 
 b.
-![](SNAG0001.png)
+![](SNAG0000.png)
 
 
