@@ -11,6 +11,7 @@ b.
 2 - After you create will generate this two entity types
 
 a.
+
 ![](SNAG0027.png)
 
 3 - In this case we gonna import from DDIC -> EKKO and EKPO 
