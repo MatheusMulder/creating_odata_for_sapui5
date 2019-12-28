@@ -1,3 +1,3 @@
 # Create oData Services
 
-![](Personal VM - SAP SNAG- 0029.png)
+![](Personal_VM_-_SAP_SNAG-_0029.png)
